@@ -13,11 +13,11 @@ select {
     display: block;
 }
 
-footer ul li a{
+/* footer ul li a{
     text-decoration: none;
     color: #f77f00;
     font-size:1.5em;
-}
+} */
 
 .custom-select {
     background-color: #03045e;
