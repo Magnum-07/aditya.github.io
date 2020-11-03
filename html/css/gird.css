@@ -13,7 +13,7 @@ select {
     display: block;
 }
 
-footer a{
+footer ul li a{
     text-decoration: none;
     color: #f77f00;
     font-size:1.5em;
